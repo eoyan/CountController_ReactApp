@@ -1,4 +1,4 @@
-const Controller = ({onClickButton}) => {
+const Controller = ({onclickButton}) => {
     return (
         <div>
             <button onClick = {() => { onClickButton(-1)}}>-1</button>
